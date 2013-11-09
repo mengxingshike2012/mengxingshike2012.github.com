@@ -5,4 +5,5 @@ $(document).ready(function() {
 	$('#ja-carousel').carousel({
 			interval: 5000
 	});
+	$('.brand').tooltip();
 });
